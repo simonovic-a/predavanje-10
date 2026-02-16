@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Stefan Petrovic",
+        "age": 17,
+        "height": 189,
+        "gender": "male"
+    },
+    {
+        "name": "Marko Jovanovic",
+        "age": 32,
+        "height": 178,
+        "gender": "male"
+    },
+    {
+        "name": "Ana Petrovic",
+        "age": 27,
+        "height": 165,
+        "gender": "female"
+    },
+    {
+        "name": "Jelena Milic",
+        "age": 41,
+        "height": 170,
+        "gender": "female"
+    },
+    {
+        "name": "Nikola Pavlovic",
+        "age": 24,
+        "height": 182,
+        "gender": "male"
+    },
+    {
+        "name": "Stefan Nikolic",
+        "age": 56,
+        "height": 185,
+        "gender": "male"
+    }
+]

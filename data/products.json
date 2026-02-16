@@ -1,0 +1,57 @@
+[
+  {
+    "name": "iPhone 16",
+    "price": 999,
+    "amount": 15
+  },
+  {
+    "name": "Samsung Galaxy S24",
+    "price": 899,
+    "amount": 22
+  },
+  {
+    "name": "Google Pixel 9",
+    "price": 799,
+    "amount": 18
+  },
+  {
+    "name": "OnePlus 13",
+    "price": 749,
+    "amount": 12
+  },
+  {
+    "name": "Xiaomi Mi 14",
+    "price": 699,
+    "amount": 30
+  },
+  {
+    "name": "Sony Xperia 1 VI",
+    "price": 1099,
+    "amount": 6
+  },
+  {
+    "name": "Huawei P70",
+    "price": 829,
+    "amount": 0
+  },
+  {
+    "name": "Motorola Edge 50",
+    "price": 649,
+    "amount": 20
+  },
+  {
+    "name": "Nothing Phone 3",
+    "price": 579,
+    "amount": 25
+  },
+  {
+    "name": "ASUS ROG Phone 8",
+    "price": 1199,
+    "amount": 0
+  },
+  {
+    "name": "Nokia X50",
+    "price": 529,
+    "amount": 17
+  }
+]
